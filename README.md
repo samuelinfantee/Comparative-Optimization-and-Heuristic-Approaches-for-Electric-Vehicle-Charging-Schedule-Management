@@ -5,7 +5,9 @@ This repository implements and compares two methods for optimizing EV charging s
 - **MILP Optimization Model (Gurobi-based)**
 - **Tabu Search Heuristic (Python-based)**
 
-These methods are part of a research study that evaluates the economic and operational performance of EV scheduling algorithms while considering arrival times, energy demands, limited chargers, ToU pricing, and Maximum Demand Limits (MDL).
+This work is part of the paper **“Comparative Optimization and Heuristic Approaches for Electric Vehicle Charging Schedule Management,”** published in the **SICEL 2025 conference proceedings**.
+
+📄 **Paper:** https://doi.org/10.15446/sicel.v12.121216
 
 ---
 
